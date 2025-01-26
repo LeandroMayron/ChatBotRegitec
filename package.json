@@ -1,0 +1,22 @@
+{
+  "name": "chatbotregitec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMayron/ChatBotRegitec.git"
+  },
+  "author": "Leandro Mayron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMayron/ChatBotRegitec/issues"
+  },
+  "homepage": "https://github.com/LeandroMayron/ChatBotRegitec#readme",
+  "dependencies": {
+    "src": "^1.1.2"
+  }
+}

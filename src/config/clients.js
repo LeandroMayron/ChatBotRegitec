@@ -1,4 +1,4 @@
-const { Client } = require("whatsapp-web.js");
+const { Client } = require("qrCoderReader");
 
 const client = new Client();
 
