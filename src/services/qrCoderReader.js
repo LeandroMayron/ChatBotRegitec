@@ -1,4 +1,4 @@
-const qrcode = require("qrcode-terminal")
+const qrcode = require("qrcode-terminal");
 
 const qrCoderReader = (client) => {
   client.on("qr", (qr) => {
